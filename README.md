@@ -16,7 +16,8 @@ def divide(a, b):
         return "Error! Division by zero."
 
 def calculator():
-    print("Welcome to the Python Calculator!")
+    print("")
+    print("hii");
     print("Select an operation:")
     print("1. Addition (+)")
     print("2. Subtraction (-)")
